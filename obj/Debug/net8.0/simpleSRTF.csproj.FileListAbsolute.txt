@@ -1,0 +1,14 @@
+/Users/leonbuena/simpleSRTF/obj/Debug/net8.0/simpleSRTF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonbuena/simpleSRTF/obj/Debug/net8.0/simpleSRTF.AssemblyInfoInputs.cache
+/Users/leonbuena/simpleSRTF/obj/Debug/net8.0/simpleSRTF.AssemblyInfo.cs
+/Users/leonbuena/simpleSRTF/obj/Debug/net8.0/simpleSRTF.csproj.CoreCompileInputs.cache
+/Users/leonbuena/simpleSRTF/bin/Debug/net8.0/simpleSRTF
+/Users/leonbuena/simpleSRTF/bin/Debug/net8.0/simpleSRTF.deps.json
+/Users/leonbuena/simpleSRTF/bin/Debug/net8.0/simpleSRTF.runtimeconfig.json
+/Users/leonbuena/simpleSRTF/bin/Debug/net8.0/simpleSRTF.dll
+/Users/leonbuena/simpleSRTF/bin/Debug/net8.0/simpleSRTF.pdb
+/Users/leonbuena/simpleSRTF/obj/Debug/net8.0/simpleSRTF.dll
+/Users/leonbuena/simpleSRTF/obj/Debug/net8.0/refint/simpleSRTF.dll
+/Users/leonbuena/simpleSRTF/obj/Debug/net8.0/simpleSRTF.pdb
+/Users/leonbuena/simpleSRTF/obj/Debug/net8.0/simpleSRTF.genruntimeconfig.cache
+/Users/leonbuena/simpleSRTF/obj/Debug/net8.0/ref/simpleSRTF.dll
